@@ -1,0 +1,6 @@
+c:\users\furqan parvaz\documents\visual studio 2013\Projects\QSort\bin\Debug\QSort.exe.config
+c:\users\furqan parvaz\documents\visual studio 2013\Projects\QSort\obj\Debug\QSort.csprojResolveAssemblyReference.cache
+c:\users\furqan parvaz\documents\visual studio 2013\Projects\QSort\bin\Debug\QSort.exe
+c:\users\furqan parvaz\documents\visual studio 2013\Projects\QSort\bin\Debug\QSort.pdb
+c:\users\furqan parvaz\documents\visual studio 2013\Projects\QSort\obj\Debug\QSort.exe
+c:\users\furqan parvaz\documents\visual studio 2013\Projects\QSort\obj\Debug\QSort.pdb
